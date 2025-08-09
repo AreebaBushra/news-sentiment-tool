@@ -12,19 +12,6 @@ This tool helps users quickly gauge the general mood of the news in real time.
 - Displays results in a simple and interactive dashboard.
 - Easy to deploy on **Render**, **Railway**, or **PythonAnywhere**.
 
-## 📂 Project Structure
-```
-
-.
-├── app.py              # Main Flask application
-├── templates/
-│   ├── index.html      # Dashboard UI
-├── static/
-│   ├── style.css       # Styling for the dashboard
-├── requirements.txt    # Python dependencies
-├── README.md           # Project documentation
-
-````
 
 ## 🛠️ Installation & Usage
 ### 1. Clone the Repository
@@ -90,11 +77,7 @@ NEWS_API_KEY=your_api_key_here
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License.
-
-```
 
 Do you want me to make that one too?
 ```
